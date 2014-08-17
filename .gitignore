@@ -1,0 +1,5 @@
+.idea
+*.iml
+.godeps
+bin
+out
